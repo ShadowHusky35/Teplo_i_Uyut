@@ -1,0 +1,278 @@
+body {
+  height: 100%;
+  background: url('../images/%D0%A4%D0%BE%D0%BD%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0%203.png') rgb(255, 255, 255);
+  background-size: cover;
+  background-position: center center;
+  font: 400 1em/1.38 'Gentium Basic';
+  color: rgb(190, 190, 190);
+}
+
+.element {
+  position: relative;
+  float: left;
+}
+
+.text {
+  position: relative;
+  float: left;
+}
+
+.text-4 p {
+  margin-bottom: 0.1em;
+}
+
+.text-5 p {
+  margin-bottom: 2.3em;
+}
+
+.wrapper {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 17;
+  width: 0.25%;
+  margin: -126px 0 0 13.91667%;
+  overflow: hidden;
+}
+
+._button {
+  display: block;
+  position: relative;
+  float: left;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.element-1 {
+  z-index: 0;
+  width: 89.4166666666%;
+  height: 125px;
+  margin: 38px 0 0 5.33073%;
+  border-radius: 5px;
+  background-color: rgb(222, 222, 222);
+}
+
+.element-2 {
+  clear: both;
+  z-index: 1;
+  width: 16.8333333333%;
+  height: 176px;
+  margin: -176px 0 0 10%;
+  background: url('../images/d4b30778dd6aa6280033473d321aece0.png') rgba(222, 222, 222, 0);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left top;
+}
+
+.element-3 {
+  z-index: 11;
+  width: 15.6666666666%;
+  height: 693px;
+  margin: 64px 0 0 5.33073%;
+  background-color: rgb(222, 222, 222);
+}
+
+.element-4 {
+  z-index: 14;
+  width: 68.3333333333%;
+  height: 693px;
+  margin: -693px 0 0 26.41276%;
+  background-color: rgb(222, 222, 222);
+}
+
+.element-5 {
+  clear: both;
+  z-index: 18;
+  width: 100.4166666666%;
+  height: 126px;
+  margin-top: 191px;
+  background: rgb(104, 71, 47);
+  background: -webkit-linear-gradient(270deg, rgb(104, 71, 47) 0%, rgb(0, 0, 0) 100%) rgb(0, 0, 0);
+  background:    -moz-linear-gradient(270deg, rgb(104, 71, 47) 0%, rgb(0, 0, 0) 100%) rgb(0, 0, 0);
+  background:      -o-linear-gradient(270deg, rgb(104, 71, 47) 0%, rgb(0, 0, 0) 100%) rgb(0, 0, 0);
+  background:     -ms-linear-gradient(270deg, rgb(104, 71, 47) 0%, rgb(0, 0, 0) 100%) rgb(0, 0, 0);
+  background:         linear-gradient(180deg, rgb(104, 71, 47) 0%, rgb(0, 0, 0) 100%) rgb(0, 0, 0);
+  background-repeat: repeat-x;
+  background-size: 86% 16%;
+}
+
+.element-6 {
+  z-index: 21;
+  width: 32.75%;
+  height: 121px;
+  margin: -121px 0 0 36.86849%;
+  background: url('../images/Heart.png') rgba(222, 222, 222, 0);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+
+.text-1 {
+  z-index: 2;
+  width: 47%;
+  min-height: 125px;
+  margin: -125px 0 0 27.41667%;
+  font-size: 5.375em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-2 {
+  z-index: 13;
+  width: 22.9166666666%;
+  min-height: 44px;
+  margin: -109px 0 0 70.39974%;
+  font-size: 1.688em;
+  text-align: right;
+  color: rgb(0, 0, 0);
+}
+
+.text-3 {
+  z-index: 12;
+  width: 15.3333333333%;
+  min-height: 44px;
+  margin: -80px 0 0 78%;
+  font-size: 1em;
+  text-align: right;
+  color: rgb(0, 0, 0);
+}
+
+.text-4 {
+  z-index: 19;
+  width: 34.6666666666%;
+  min-height: 44px;
+  margin: -102px 0 0 5.33073%;
+  font-size: 1em;
+  color: rgb(190, 190, 190);
+}
+
+.text-5 {
+  z-index: 20;
+  width: 24.75%;
+  min-height: 97px;
+  margin: -97px 0 0 71.91667%;
+  font-size: 1em;
+  color: rgb(204, 204, 204);
+}
+
+._button-1 {
+  z-index: 10;
+  width: 18.1666666666%;
+  height: 41px;
+  margin-left: 5.33073%;
+  border-radius: 3px;
+  background-color: rgba(222, 222, 222, 0.8);
+}
+
+._button-10 {
+  z-index: 16;
+  width: 15.6666666666%;
+  height: 57px;
+  margin: -554px 0 0 5.33073%;
+  background-color: rgb(154, 110, 83);
+}
+
+._button-2 {
+  clear: both;
+  z-index: 3;
+  width: 11.3333333333%;
+  height: 41px;
+  margin: -41px 0 0 23.49349%;
+  border-radius: 3px;
+  background-color: rgba(222, 222, 222, 0.8);
+}
+
+._button-3 {
+  z-index: 4;
+  width: 11.1666666666%;
+  height: 41px;
+  margin: -41px 0 0 34.83073%;
+  border-radius: 3px;
+  background-color: rgba(222, 222, 222, 0.8);
+}
+
+._button-4 {
+  z-index: 5;
+  width: 11.2161458333%;
+  height: 41px;
+  margin: -41px 0 0 45.99349%;
+  border-radius: 3px;
+  background-color: rgba(222, 222, 222, 0.8);
+}
+
+._button-1:active,
+._button-2:active,
+._button-3:active,
+._button-4:active {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .5) inset;
+  font-size: 0.813em;
+}
+
+._button-5 {
+  z-index: 6;
+  width: 11.2161458333%;
+  height: 41px;
+  margin: -41px 0 0 57.21224%;
+  border-radius: 3px;
+  background-color: rgba(222, 222, 222, 0.8);
+}
+
+._button-5:active {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .5) inset, 0 2px 5px rgba(0, 0, 0, .5);
+  font-size: 0.813em;
+}
+
+._button-6 {
+  z-index: 9;
+  width: 4.75%;
+  height: 41px;
+  margin: -41px 0 0 79.04818%;
+  border-radius: 3px;
+  background: url('../images/Twitter.png') rgba(222, 222, 222, 0.8);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+
+._button-7 {
+  z-index: 8;
+  width: 4.75%;
+  height: 41px;
+  margin: -41px 0 0 84.46484%;
+  border-radius: 3px;
+  background: url('../images/ok_logo.png') rgba(222, 222, 222, 0.8);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+
+._button-8 {
+  z-index: 7;
+  width: 4.75%;
+  height: 41px;
+  margin: -41px 0 0 89.96484%;
+  border-radius: 3px;
+  background: url('../images/VK.png') rgba(222, 222, 222, 0.8);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+
+._button-2:focus,
+._button-3:focus,
+._button-4:focus,
+._button-6:focus,
+._button-7:focus,
+._button-8:focus {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .5);
+}
+
+._button-9 {
+  clear: both;
+  z-index: 15;
+  width: 15.6666666666%;
+  height: 57px;
+  margin: -651px 0 0 5.33073%;
+  background-color: rgb(154, 110, 83);
+}

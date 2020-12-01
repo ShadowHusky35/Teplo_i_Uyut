@@ -1,0 +1,589 @@
+body {
+  height: 100%;
+  background: url('../images/%D0%A4%D0%BE%D0%BD%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0%203.png') rgb(255, 255, 255);
+  background-size: cover;
+  background-position: center center;
+  font: 400 1.313em/1.38 'Gentium Basic';
+  color: rgb(0, 0, 0);
+}
+
+.element {
+  position: relative;
+  float: left;
+}
+
+.text {
+  position: relative;
+  float: left;
+}
+
+.text-17 p {
+  margin-bottom: 0.1em;
+}
+
+.text-18 p {
+  margin-bottom: 2.3em;
+}
+
+.wrapper {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 38;
+  width: 0.25%;
+  margin: -126px 0 0 13.91667%;
+  overflow: hidden;
+}
+
+._button {
+  display: block;
+  position: relative;
+  float: left;
+  border-radius: 3px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.element-1 {
+  z-index: 0;
+  width: 89.4166666666%;
+  height: 125px;
+  margin: 38px 0 0 5.33073%;
+  border-radius: 5px;
+  background-color: rgb(222, 222, 222);
+}
+
+.element-10 {
+  z-index: 28;
+  width: 21.0859375%;
+  height: 168px;
+  margin: 57px 0 0 5.29948%;
+  background: url('../images/imagetools6-8.jpg') rgb(222, 222, 222);
+  background-repeat: repeat-x;
+  background-size: cover;
+  background-position: left bottom;
+}
+
+.element-11 {
+  z-index: 30;
+  width: 21.0859375%;
+  height: 168px;
+  margin: 57px 0 0 5.43099%;
+  background: url('../images/ORLwZ1Z17x.jpg') rgb(222, 222, 222);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-12 {
+  clear: both;
+  z-index: 32;
+  width: 21.0859375%;
+  height: 168px;
+  margin: 60px 0 0 10.48438%;
+  background: url('../images/tajlandskaya-poroda-koshek-zaregistrirovana.jpg') rgb(222, 222, 222);
+  background-repeat: repeat-x;
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-13 {
+  z-index: 34;
+  width: 21.0859375%;
+  height: 168px;
+  margin: 60px 0 0 5.29948%;
+  background: url('../images/n20130907_170246.jpg') rgb(222, 222, 222);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-14 {
+  z-index: 36;
+  width: 21.0859375%;
+  height: 168px;
+  margin: 60px 0 0 5.4375%;
+  background: url('../images/0_b15f8_7ef682a8_orig.jpg') rgb(222, 222, 222);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+}
+
+.element-15 {
+  clear: both;
+  z-index: 39;
+  width: 100.4166666666%;
+  height: 126px;
+  margin-top: 271px;
+  background: rgb(104, 71, 47);
+  background: -webkit-linear-gradient(270deg, rgb(104, 71, 47) 0%, rgb(0, 0, 0) 100%) rgb(0, 0, 0);
+  background:    -moz-linear-gradient(270deg, rgb(104, 71, 47) 0%, rgb(0, 0, 0) 100%) rgb(0, 0, 0);
+  background:      -o-linear-gradient(270deg, rgb(104, 71, 47) 0%, rgb(0, 0, 0) 100%) rgb(0, 0, 0);
+  background:     -ms-linear-gradient(270deg, rgb(104, 71, 47) 0%, rgb(0, 0, 0) 100%) rgb(0, 0, 0);
+  background:         linear-gradient(180deg, rgb(104, 71, 47) 0%, rgb(0, 0, 0) 100%) rgb(0, 0, 0);
+  background-repeat: repeat-x;
+  background-size: 86% 16%;
+}
+
+.element-16 {
+  z-index: 42;
+  width: 32.75%;
+  height: 121px;
+  margin: -121px 0 0 36.86849%;
+  background: url('../images/Heart.png') rgba(222, 222, 222, 0);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+
+.element-2 {
+  clear: both;
+  z-index: 1;
+  width: 16.8333333333%;
+  height: 176px;
+  margin: -176px 0 0 10%;
+  background: url('../images/d4b30778dd6aa6280033473d321aece0.png') rgba(222, 222, 222, 0);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left top;
+}
+
+.element-3 {
+  clear: both;
+  z-index: 14;
+  width: 21.0859375%;
+  height: 168px;
+  margin: 43px 0 0 10.48438%;
+  background: url('../images/09315844d1c8c8401de7.jpg') rgb(222, 222, 222);
+  background-repeat: repeat-x;
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-4 {
+  z-index: 16;
+  width: 21.0859375%;
+  height: 168px;
+  margin: 43px 0 0 5.29297%;
+  background: url('../images/ryzhij.jpg') rgb(222, 222, 222);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-5 {
+  z-index: 18;
+  width: 21.0859375%;
+  height: 168px;
+  margin: 43px 0 0 5.42839%;
+  background: url('../images/6ff31e9a5e2da151de2e74266672944a.jpg') rgb(222, 222, 222);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-6 {
+  clear: both;
+  z-index: 20;
+  width: 21.0859375%;
+  height: 168px;
+  margin: 58px 0 0 10.48438%;
+  background: url('../images/skolko-let-v-srednem-zhivut-koshki-i-koti-siamskie.jpg') rgb(222, 222, 222);
+  background-repeat: repeat-x;
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-7 {
+  z-index: 22;
+  width: 21.0859375%;
+  height: 168px;
+  margin: 58px 0 0 5.29297%;
+  background: url('../images/istoriya-proishozhdeniya-porody-mejn-kun.jpg') rgb(222, 222, 222);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-8 {
+  z-index: 24;
+  width: 21.0859375%;
+  height: 168px;
+  margin: 58px 0 0 5.43099%;
+  background: url('../images/post_5af6a871bac16.jpg') rgb(222, 222, 222);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-9 {
+  clear: both;
+  z-index: 26;
+  width: 21.0859375%;
+  height: 168px;
+  margin: 57px 0 0 10.48438%;
+  background: url('../images/intent-ragdoll-cat-larry-allan.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: center center;
+}
+
+.text-1 {
+  z-index: 2;
+  width: 47%;
+  min-height: 125px;
+  margin: -125px 0 0 27.41667%;
+  font-size: 4.095em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-10 {
+  z-index: 25;
+  width: 21.0859375%;
+  min-height: 31px;
+  margin-left: 5.42969%;
+  background-color: rgba(253, 252, 252, 0.98);
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-11 {
+  clear: both;
+  z-index: 27;
+  width: 21.0859375%;
+  min-height: 31px;
+  margin-left: 10.48438%;
+  background-color: rgba(253, 252, 252, 0.98);
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-12 {
+  z-index: 29;
+  width: 21.0859375%;
+  min-height: 31px;
+  margin-left: 5.29948%;
+  background-color: rgba(253, 252, 252, 0.98);
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-13 {
+  z-index: 31;
+  width: 21.0859375%;
+  min-height: 31px;
+  margin-left: 5.4349%;
+  background-color: rgba(253, 252, 252, 0.98);
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-14 {
+  clear: both;
+  z-index: 33;
+  width: 21.0859375%;
+  min-height: 31px;
+  margin-left: 10.48438%;
+  background-color: rgba(253, 252, 252, 0.98);
+  font-size: 1em;
+  text-align: center;
+  color: rgba(51, 51, 51, 0.97);
+}
+
+.text-15 {
+  z-index: 35;
+  width: 21.0859375%;
+  min-height: 31px;
+  margin-left: 5.29948%;
+  background-color: rgba(253, 252, 252, 0.98);
+  font-size: 1em;
+  text-align: center;
+  color: rgb(26, 26, 26);
+}
+
+.text-16 {
+  z-index: 37;
+  width: 21.0859375%;
+  min-height: 31px;
+  margin-left: 5.4375%;
+  background-color: rgba(253, 252, 252, 0.98);
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-10:active,
+.text-11:active,
+.text-12:active,
+.text-13:active,
+.text-14:active,
+.text-15:active,
+.text-16:active,
+.text-6:active,
+.text-7:active,
+.text-8:active,
+.text-9:active {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .5) inset;
+}
+
+.text-17 {
+  z-index: 40;
+  width: 34.6666666666%;
+  min-height: 44px;
+  margin: -102px 0 0 5.33073%;
+  font-size: 0.762em;
+  color: rgb(190, 190, 190);
+}
+
+.text-18 {
+  z-index: 41;
+  width: 24.75%;
+  min-height: 97px;
+  margin: -97px 0 0 71.91667%;
+  font-size: 0.762em;
+  color: rgb(204, 204, 204);
+}
+
+.text-2 {
+  z-index: 12;
+  width: 22.9166666666%;
+  min-height: 44px;
+  margin: -109px 0 0 70.39974%;
+  font-size: 1.286em;
+  text-align: right;
+  color: rgb(0, 0, 0);
+}
+
+.text-3 {
+  z-index: 11;
+  width: 15.3333333333%;
+  min-height: 44px;
+  margin: -80px 0 0 78%;
+  font-size: 0.762em;
+  text-align: right;
+  color: rgb(0, 0, 0);
+}
+
+.text-4 {
+  z-index: 43;
+  width: 52.9088541666%;
+  min-height: 59px;
+  margin: 71px 0 0 5.1536458333%;
+  border-radius: 3px;
+  background-color: rgb(222, 222, 222);
+  font-size: 0.905em;
+  line-height: 2.88;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-5 {
+  clear: both;
+  z-index: 15;
+  width: 21.0859375%;
+  min-height: 31px;
+  margin-left: 10.48438%;
+  background-color: rgba(253, 252, 252, 0.98);
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-5:active {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .5) inset;
+  font-size: 21px;
+}
+
+.text-6 {
+  z-index: 17;
+  width: 21.0859375%;
+  min-height: 31px;
+  margin-left: 5.29297%;
+  background-color: rgba(253, 252, 252, 0.98);
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-7 {
+  z-index: 19;
+  width: 21.0859375%;
+  min-height: 31px;
+  margin-left: 5.42839%;
+  background-color: rgba(253, 252, 252, 0.98);
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-8 {
+  clear: both;
+  z-index: 21;
+  width: 21.0859375%;
+  min-height: 31px;
+  margin-left: 10.48438%;
+  background-color: rgba(253, 252, 252, 0.98);
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-9 {
+  z-index: 23;
+  width: 21.0859375%;
+  min-height: 31px;
+  margin-left: 5.29297%;
+  background-color: rgba(253, 252, 252, 0.98);
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._button-1 {
+  z-index: 10;
+  width: 18.1666666666%;
+  height: 41px;
+  margin-left: 5.33073%;
+  background-color: rgba(222, 222, 222, 0.8);
+  font-size: 0.762em;
+}
+
+._button-2 {
+  clear: both;
+  z-index: 3;
+  width: 11.3333333333%;
+  height: 41px;
+  margin: -41px 0 0 23.49349%;
+  background-color: rgba(222, 222, 222, 0.8);
+  font-size: 0.762em;
+}
+
+._button-3 {
+  z-index: 4;
+  width: 11.1666666666%;
+  height: 41px;
+  margin: -41px 0 0 34.83073%;
+  background-color: rgba(222, 222, 222, 0.8);
+  font-size: 0.762em;
+}
+
+._button-4 {
+  z-index: 5;
+  width: 11.2161458333%;
+  height: 41px;
+  margin: -41px 0 0 45.99349%;
+  background-color: rgba(222, 222, 222, 0.8);
+  font-size: 0.762em;
+}
+
+._button-1:active,
+._button-2:active,
+._button-3:active,
+._button-4:active {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .5) inset;
+  font-size: 0.619em;
+}
+
+._button-5 {
+  z-index: 6;
+  width: 11.2161458333%;
+  height: 41px;
+  margin: -41px 0 0 57.21224%;
+  background-color: rgba(222, 222, 222, 0.8);
+  font-size: 0.762em;
+}
+
+._button-5:active {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .5) inset, 0 2px 5px rgba(0, 0, 0, .5);
+  font-size: 0.619em;
+}
+
+._button-6 {
+  z-index: 9;
+  width: 4.75%;
+  height: 41px;
+  margin: -41px 0 0 79.04818%;
+  background: url('../images/Twitter.png') rgba(222, 222, 222, 0.8);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  font-size: 0.762em;
+}
+
+._button-7 {
+  z-index: 8;
+  width: 4.75%;
+  height: 41px;
+  margin: -41px 0 0 84.46484%;
+  background: url('../images/ok_logo.png') rgba(222, 222, 222, 0.8);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  font-size: 0.762em;
+}
+
+._button-8 {
+  z-index: 7;
+  width: 4.75%;
+  height: 41px;
+  margin: -41px 0 0 89.96484%;
+  background: url('../images/VK.png') rgba(222, 222, 222, 0.8);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  font-size: 0.762em;
+}
+
+._button-2:focus,
+._button-3:focus,
+._button-4:focus,
+._button-6:focus,
+._button-7:focus,
+._button-8:focus {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .5);
+}
+
+._button-9 {
+  z-index: 13;
+  width: 21.0859375%;
+  height: 59px;
+  margin: 71px 0 0 5.3307291666%;
+  background-color: rgb(222, 222, 222);
+  font-size: 0.952em;
+}
+
+._button-9:active {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .5) inset;
+  font-size: 0.714em;
+}
+
+.text strong {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
